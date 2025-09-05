@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Renault Diag</string>
+    <string name="abs">ABS</string>
+    <string name="temp_rature_du_liquide_de_refroidissement">Température du liquide de refroidissement</string>
+    <string name="temp_rature_huile_du_moteur" />
+    <string name="tempe_rature_du_liquide_de_refroidissement" />
+    <string name="tempe_rature_huile_du_moteur" />
+    <string name="lire_temp_rature_huile_moteur">Lire température huile moteur</string>
+    <string name="lire_tat_feux_d_tresse">Lire état feux détresse</string>
+    <string name="lire_pression_pneus">Lire pression pneus</string>
+    <string name="lire_niveau_carburant">Lire niveau carburant</string>
+    <string name="lire_niveau_batterie_ev">Lire niveau batterie EV</string>
+    <string name="lire_temp_rature_ext_rieure">Lire température extérieure</string>
+</resources>

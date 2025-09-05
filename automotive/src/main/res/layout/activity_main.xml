@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/button_read_abs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/abs" />
+
+    <Button
+        android:id="@+id/button_read_temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/temp_rature_du_liquide_de_refroidissement" />
+
+    <Button
+        android:id="@+id/button_read_oil_temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lire_temp_rature_huile_moteur" />
+
+    <Button
+        android:id="@+id/button_read_hazard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lire_tat_feux_d_tresse" />
+
+    <Button
+        android:id="@+id/button_read_tire_pressure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lire_pression_pneus" />
+
+    <Button
+        android:id="@+id/button_read_fuel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lire_niveau_carburant" />
+
+    <Button
+        android:id="@+id/button_read_ev_battery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lire_niveau_batterie_ev" />
+
+    <Button
+        android:id="@+id/button_read_outside_temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lire_temp_rature_ext_rieure"/>
+
+
+
+
+
+    <TextView
+        android:id="@+id/text_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="20dp"/>
+</LinearLayout>
