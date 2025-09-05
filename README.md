@@ -40,6 +40,8 @@ adb -s <device_serial> install -t "<path_to_your_project>/automotive/build/inter
 Note: You might see an error when launching the application. You can ignore it and proceed with running the ADB install command.
 6. Grant any necessary permissions to access Android properties
 
+---
+
 ## Usage
 Launch the application on the automotive system to begin diagnostics.
 
