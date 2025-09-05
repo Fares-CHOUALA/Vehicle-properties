@@ -56,7 +56,7 @@ Explore access to privileged vehicle properties for expanded diagnostics.
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-
+---
 
 
 ## Version francaise
@@ -116,3 +116,5 @@ Remarque : Vous pourriez voir une erreur lors du lancement de l’application. V
 
 ## Licence
 Ce projet est sous licence **MIT** – voir le fichier [LICENSE](LICENSE) pour les détails.
+
+---
